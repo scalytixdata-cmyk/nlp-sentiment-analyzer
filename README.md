@@ -51,6 +51,6 @@ Multi-language sentiment analysis engine that processes customer reviews from **
 
 <div align="center">
 
-**Built by [Scalytix Data Analytics](https://github.com/scalytixdata-cmyk) | Kochi, Kerala**
+**Built by [Scalytix Data Analytics](https://github.com/scalytixdata-cmyk) | Malappuram, Kerala**
 
 </div>
